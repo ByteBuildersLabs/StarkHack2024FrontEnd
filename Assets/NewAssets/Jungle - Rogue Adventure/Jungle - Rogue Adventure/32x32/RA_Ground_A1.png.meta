@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b18dbf4f23ce69b408d2f22cd7bb2e83
+guid: 0d7f9874ea3da11478a63781a91b99f1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,81 +93,131 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RA_Jungle_Extras_10
+      name: RA_Ground_A1_0
       rect:
         serializedVersion: 2
-        x: 160
-        y: 208
-        width: 16
-        height: 48
+        x: 67
+        y: 337
+        width: 59
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 13, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be9123f870dc8b64b9026647b6ec84b2
-      internalID: -1596752292
+      spriteID: 6a4d45e4650cf564386ab7794c8f1134
+      internalID: 416936667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RA_Jungle_Extras_11
+      name: RA_Ground_A1_1
       rect:
         serializedVersion: 2
-        x: 176
-        y: 208
-        width: 16
-        height: 48
+        x: 256
+        y: 0
+        width: 192
+        height: 384
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d694688a1b68f254ea01cda20f8c1300
-      internalID: -1490979186
+      spriteID: 81c18492e737cbe4bb46dd810ac18814
+      internalID: 1543368849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RA_Jungle_Extras_12
+      name: RA_Ground_A1_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 208
-        width: 16
-        height: 48
+        x: 66
+        y: 290
+        width: 59
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 13, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f65746c1d48d4083c201231b36050
+      internalID: -105107787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_A1_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 290
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb899536232145489e331dd8c617197
+      internalID: -1686140999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_A1_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 290
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc2f0c9d3ac044da1cba123b4920bf
+      internalID: 375784668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_A1_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 302
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.47058824}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68d27117e452af14c82eef16666410cc
-      internalID: 866250234
+      spriteID: 2497ba9811a76c747bdb24e55d7d56fb
+      internalID: -671173799
       vertices: []
       indices: 
       edges: []
@@ -183,42 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RA_Jungle_Extras_0: 916675570
-      RA_Jungle_Extras_1: -478222360
-      RA_Jungle_Extras_10: -1596752292
-      RA_Jungle_Extras_11: -1490979186
-      RA_Jungle_Extras_12: 866250234
-      RA_Jungle_Extras_13: -1319592859
-      RA_Jungle_Extras_14: -1270826993
-      RA_Jungle_Extras_15: 1744043070
-      RA_Jungle_Extras_16: -1157812368
-      RA_Jungle_Extras_17: -1947014831
-      RA_Jungle_Extras_18: 823055939
-      RA_Jungle_Extras_19: 1809663117
-      RA_Jungle_Extras_2: 1168551819
-      RA_Jungle_Extras_20: 1285310515
-      RA_Jungle_Extras_21: 1267573027
-      RA_Jungle_Extras_22: -871810846
-      RA_Jungle_Extras_23: -340729312
-      RA_Jungle_Extras_24: 1759071722
-      RA_Jungle_Extras_25: -350393858
-      RA_Jungle_Extras_26: -1098879108
-      RA_Jungle_Extras_27: -1174843533
-      RA_Jungle_Extras_28: 1199657692
-      RA_Jungle_Extras_29: -104416895
-      RA_Jungle_Extras_3: -788779853
-      RA_Jungle_Extras_30: -829724750
-      RA_Jungle_Extras_31: -1861591706
-      RA_Jungle_Extras_32: 1670618849
-      RA_Jungle_Extras_33: 1909883623
-      RA_Jungle_Extras_34: -1446426582
-      RA_Jungle_Extras_35: -1626443060
-      RA_Jungle_Extras_4: 6463468
-      RA_Jungle_Extras_5: 2065878771
-      RA_Jungle_Extras_6: -599338143
-      RA_Jungle_Extras_7: -574554510
-      RA_Jungle_Extras_8: 1619781982
-      RA_Jungle_Extras_9: -744101169
+      RA_Ground_A1_0: 416936667
+      RA_Ground_A1_1: 1543368849
+      RA_Ground_A1_2: -105107787
+      RA_Ground_A1_3: -1686140999
+      RA_Ground_A1_4: 375784668
+      RA_Ground_A1_5: -671173799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
