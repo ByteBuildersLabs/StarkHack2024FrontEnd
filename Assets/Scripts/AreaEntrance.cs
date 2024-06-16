@@ -7,6 +7,7 @@ public class AreaEntrance : MonoBehaviour {
     public string transitionName;
 
 	// Use this for initialization
+	// test
 	void Start () {
 		if(transitionName == PlayerController.instance.areaTransitionName)
         {
